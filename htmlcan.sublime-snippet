@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+	<title>${1:Title}</title>
+</head>
+<body>
+
+<div id="container">
+	<canvas id="${2:ID}">Your Browser does not support Canvas, please upgrade</canvas>
+</div>
+
+<script>
+(function(){
+
+var canvas = document.getElementById('${2:ID}');
+var ctx = canvas.getContext('${3:Context}');
+
+canvas.width = ${4:Width};
+canvas.height = ${5:Height};
+	
+}());
+</script>
+</body>
+</html>
+]]></content>
+
+<description>HTML Boilerplate with a Canvas Tag</description>
+<tabTrigger>htmlcan</tabTrigger>
+<!-- <scope>source.html</scope> -->
+</snippet>

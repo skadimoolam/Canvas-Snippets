@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+fillRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
+]]></content>
+<description>fillRect()</description>
+<tabTrigger>refi</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clearRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
+]]></content>
+<description>clearRect()</description>
+<tabTrigger>recl</tabTrigger>
+<scope>source.js</scope>
+</snippet>
