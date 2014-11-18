@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+fillStyle = "${1:COLOR/GRADIENT/PATTERN}";
+]]></content>
+<description>fillStyle {Prop}</description>
+<tabTrigger>fist</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+strokeStyle = "${1:COLOR/GRADIENT/PATTERN}";
+]]></content>
+<description>strokeStyle {Prop}</description>
+<tabTrigger>stst</tabTrigger>
+<scope>source.js</scope>
+</snippet>

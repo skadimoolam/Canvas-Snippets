@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+translate(${1:X}, ${2:Y});
+]]></content>
+<description>translate(x,y)</description>
+<tabTrigger>trsl</tabTrigger>
+<scope>source.js</scope>
+</snippet>

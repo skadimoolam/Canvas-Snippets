@@ -3,6 +3,6 @@
 strokeRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
 ]]></content>
 <description>strokeRect()</description>
-<tabTrigger>rest</tabTrigger>
+<tabTrigger>stre</tabTrigger>
 <scope>source.js</scope>
 </snippet>

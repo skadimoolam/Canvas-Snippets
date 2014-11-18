@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scale(${1:Scale Width}, ${2:Scale Height});
+]]></content>
+<description>scale(scaleWid,scaleHei)</description>
+<tabTrigger>sc</tabTrigger>
+<scope>source.js</scope>
+</snippet>

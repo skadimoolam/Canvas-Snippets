@@ -3,6 +3,6 @@
 clearRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
 ]]></content>
 <description>clearRect()</description>
-<tabTrigger>recl</tabTrigger>
+<tabTrigger>clre</tabTrigger>
 <scope>source.js</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+restore();
+]]></content>
+<description>restore()</description>
+<tabTrigger>res</tabTrigger>
+<scope>source.js</scope>
+</snippet>
