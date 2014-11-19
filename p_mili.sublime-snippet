@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+miterLimit = "${1:POSITIVE NUMBER}";
+]]></content>
+<description>miterLimit {Prop}</description>
+<tabTrigger>mili</tabTrigger>
+<scope>source.js</scope>
+</snippet>

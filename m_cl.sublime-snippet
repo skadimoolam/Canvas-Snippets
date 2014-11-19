@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clip();
+]]></content>
+<description>clip()</description>
+<tabTrigger>cl</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<canvas id="${1:ID}" width="${2:WIDTH}" height="${3:HEIGHT}" style="${4:STYLE}">Your Browser does not support Canvas, please upgrade</canvas>
+]]></content>
+
+<description>Canvas Tag</description>
+<tabTrigger>cat</tabTrigger>
+<!-- <scope>source.html</scope> -->
+</snippet>

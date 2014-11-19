@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+beginPath();
+]]></content>
+<description>beginPath()</description>
+<tabTrigger>bepa</tabTrigger>
+<scope>source.js</scope>
+</snippet>

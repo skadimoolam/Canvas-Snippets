@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+moveTo(${1:X}, ${2:Y});
+]]></content>
+<description>moveTo(x,y)</description>
+<tabTrigger>mot</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+lineCap = "${1:BUTT|ROUND|SQURE}";
+]]></content>
+<description>lineCap {Prop}</description>
+<tabTrigger>lic</tabTrigger>
+<scope>source.js</scope>
+</snippet>

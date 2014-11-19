@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+lineJoin = "${1:BEVEL|ROUND|MITER}";
+]]></content>
+<description>lineJoin {Prop}</description>
+<tabTrigger>lijo</tabTrigger>
+<scope>source.js</scope>
+</snippet>

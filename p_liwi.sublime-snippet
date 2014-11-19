@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+lineWidth = "${1:WIDTH IN PIXALS}";
+]]></content>
+<description>lineWidth {Prop}</description>
+<tabTrigger>liwi</tabTrigger>
+<scope>source.js</scope>
+</snippet>

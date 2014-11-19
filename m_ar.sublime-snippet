@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+arc(${1:X}, ${2:Y}, ${3:RADIUS}, ${4:START ANGLE}, ${5:END ANGLE}, ${6:ANIT-CLOCKWISE(TRUE/FALSE)});
+]]></content>
+<description>arc(x,y,r,sAngle,eAngle,clockwise)</description>
+<tabTrigger>ar</tabTrigger>
+<scope>source.js</scope>
+</snippet>

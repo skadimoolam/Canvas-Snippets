@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+arcTo(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${5:RADIUS});
+]]></content>
+<description>arcTo(x1,y1,x2,y2,radius)</description>
+<tabTrigger>art</tabTrigger>
+<scope>source.js</scope>
+</snippet>
