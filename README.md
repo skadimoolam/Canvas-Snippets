@@ -7,7 +7,7 @@ Canvas Snippets is plugin for SublimeText 2 & 3 to make coding with HTML5 Canvas
 Download the latest version here:
 * https://github.com/skadimoolam/Canvas-Snippets/releases
 
-**NOTE:**As of now this Plugin is not available through PackageControl yet, but it will soon be.
+**NOTE**:As of now this Plugin is not available through PackageControl yet, but it will soon be.
 
 ### Using
 ***
@@ -28,7 +28,7 @@ For when the Method/Property names are more than one word, type the second word'
 
 And So on.........
 
-**NOTE:**Remember everything you type before enter the `Tab` must be in Lower Case.
+**NOTE**:Remember everything you type before enter the `Tab` must be in Lower Case.
 ***
 
 If you have any doubts about how to use a snippet, please refer to my **CheatSheet** File or
