@@ -1,30 +1,40 @@
-Canvas Snippets
-===============
+Canvas Snippets is plugin for SublimeText 2 & 3 to make coding with HTML5 Canvas API a little easier.
 
-This Repo is a work-in-progress Plugin for Sublime Text 3, which provides Web Developers with a stack of snippets to make working with HTML5 Canvas API a little less of a mess.
 
-##How do I get it:
 
-####Direct Download
+### Installing
+***
+Download the latest version here:
+* https://github.com/skadimoolam/Canvas-Snippets/releases
 
-Below is the official link to download this Plugin:
+**NOTE:**As of now this Plugin is not available through PackageControl yet, but it will soon be.
 
-https://github.com/skadimoolam/Canvas-Snippets/releases
+### Using
+***
+Using these snippets are quite easy.
 
-Click on the large green button and place the downloaded file in your
+Just type the first two letters of a Method and Press `Tab`.
 
-"USER\AppData\Roaming\Sublime Text 3\Installed Packages" (Windows)
+Examples: 
+* To revel the `stroke()` method, type `st` and Press `Tab`.
+* To insert the `rotate()` method, type `ro` and Press `Tab`.
 
-Directory and you are good to get started.
+And So on.........
 
-###or
+For when the Method/Property names are more than one word, type the second word's first two letters with the first two letters of the first word like in the examples below.
 
-####Package Control
-As of now this Plugin is not available through PackageControl, but it will soon be.
+* To revel the `shadowColor` property, type `shco` and Press `Tab`.
+* To insert the `beginPath()` method, type `bepa` and Press `Tab`.
 
-----
+And So on.........
 
-###Contribution
-Any contribution to the project would be very much appreciated.
+**NOTE:**Remember everything you type before enter the `Tab` must be in Lower Case.
+***
 
-And if you have any problems with the Plugin please report it [HERE](https://github.com/skadimoolam/Canvas-Snippets/issues)
+If you have any doubts about how to use a snippet, please refer to my **CheatSheet** File or
+
+If something is not working right please make an issue **[HERE](https://github.com/skadimoolam/Canvas-Snippets/issues)**
+
+Contributions are always appropriated.
+
+***
