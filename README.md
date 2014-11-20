@@ -5,13 +5,17 @@ This Repo is a work-in-progress Plugin for Sublime Text 3, which provides Web De
 
 ##How do I get it:
 
-####Clone the Repo
+####Direct Download
 
-Clone this repository in to your
+Below is the official link to download this Plugin:
 
-**"USER"\AppData\Roaming\Sublime Text 3\Packages\User**
+https://github.com/skadimoolam/Canvas-Snippets/releases
 
-Folder and you are good to go.
+Click on the large green button and place the downloaded file in your
+
+"USER\AppData\Roaming\Sublime Text 3\Installed Packages" (Windows)
+
+Directory and you are good to get started.
 
 ###or
 
