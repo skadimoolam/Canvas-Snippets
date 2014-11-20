@@ -1,36 +1,95 @@
-## Canvas Snippets CheatSheet:
+Below is a list of all the methods and properties of the Canvas' Context followed by its respective tabtrigger
 
-**Method**:
-**Property**:
-**Command**:
-**Uses**:
 
-### Colors, Styles, and Shadows
+### COLOR, STYLE and SHADOW
+* fillStyle - `fist`
+* strokeStyle - `stat`
+* shadowColor - `shco`
+* shadowBlur - `shbl`
+* shadowOffsetX - `sox`
+* shadowOffsetY - `soy`
+* createLinearGradient() - `clg`
+* createRadialGradient() - `crg`
+* createPattern() - `cp`
+* addColorStop() - `acs`
 
-**Property**:
-**Command**:
-**Uses**:
 
-**Property**:
-**Command**:
-**Uses**:
+### LINE STYLE
+* lineCap - `lic`
+* lineJoin - `lijo`
+* lineWidth - `liwi`
+* miterLimit - `mili`
 
-**Property**:
-**Command**:
-**Uses**:
 
-**Property**:
-**Command**:
-**Uses**:
+### RECTANGLE
+* rect() - `re`
+* fillRect() - `fire`
+* strokeRect() - `stre`
+* clearRect() - `clre`
 
-**Property**:
-**Command**:
-**Uses**:
 
-**Property**:
-**Command**:
-**Uses**:
+### PATH
+* fill() - `fi`
+* stroke() - `st`
+* beginPath() - `bepa`
+* closePath() - `clpa`
+* moveTo() - `mot`
+* lineTo() - `lit`
+* quadraticCurveTo() - `qua`
+* bezierCurveTo() - `bez`
+* arc() - `ar`
+* arcTo() - `art`
+* clip() - `cl`
+* isPointInPath() - `ipip`
 
-**Property**:
-**Command**:
-**Uses**:
+
+### TRANSFORMATION
+* scale() - `sc`
+* rotate() - `ro`
+* translate() - `trsl`
+* transform() - `trsf`
+* setTransform() - `strsf`
+
+
+### TEXT/FONT
+* font - `fo`
+* textAlign - `teal`
+* textBaseline - `teba`
+* fillText() - `fite`
+* strokeText() - `stte`
+* measureText() - `mete`
+
+
+### IMAGE DRAWING
+* drawImage() - `dr`
+
+
+### PIXAL MANIPULATION
+* width - `wi`
+* height - `he`
+* data - `da`
+* createImageData() - `cid`
+* getImageData() - `gid`
+* putImageData() - `pid`
+
+
+### COMPOSITING
+* globalAlpha - `glal`
+* globalCompositeOperation - `glco`
+
+
+### OTHER
+* save() - `sa`
+* restore() - `res`
+* createEvent() - `crev`
+* getContext() - `gco`
+* toDataURL() - `tdu`
+
+### MICS
+* HTML BoilerPlate with a Canvas Tag - `htmlcan`
+* Canvas Tag with useful Attributes - `cat`
+* Height - `he`
+* Width - `wi`
+* Data - `da`
+* Math.PI - `PI`
+* Math.random - `rnd`

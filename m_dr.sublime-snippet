@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+drawImage();
+]]></content>
+<description>drawImage()</description>
+<tabTrigger>dr</tabTrigger>
+<scope>source.js</scope>
+</snippet>
