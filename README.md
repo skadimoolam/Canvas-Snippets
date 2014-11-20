@@ -31,7 +31,7 @@ And So on.........
 **NOTE**:Remember everything you type before enter the `Tab` must be in Lower Case.
 ***
 
-If you have any doubts about how to use a snippet, please refer to my **CheatSheet** File or
+If you have any doubts about how to use a snippet, please refer to my **[CheatSheet](https://github.com/skadimoolam/Canvas-Snippets/blob/master/CheatSheet.md)** File or
 
 If something is not working right please make an issue **[HERE](https://github.com/skadimoolam/Canvas-Snippets/issues)**
 
