@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+width
+]]></content>
+<description>width</description>
+<tabTrigger>wi</tabTrigger>
+<scope>source.js</scope>
+</snippet>

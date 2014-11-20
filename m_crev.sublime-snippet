@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+createEvent("${1:EVENT TYPE}");
+]]></content>
+<description>createEvent()</description>
+<tabTrigger>crev</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+strokeText("${1:TEXT}", ${2:X POS}, ${3:Y POS}, ${4:maxWidth{optional});
+]]></content>
+<description>strokeText(txt,x,y)</description>
+<tabTrigger>stte</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+fillText("${1:TEXT}", ${2:X POS}, ${3:Y POS}, ${4:maxWidth{optional});
+]]></content>
+<description>fillText(txt,x,y)</description>
+<tabTrigger>fite</tabTrigger>
+<scope>source.js</scope>
+</snippet>

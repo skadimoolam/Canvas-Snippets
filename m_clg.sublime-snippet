@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+createLinearGradient(${1:START point X}, ${2:END point Y}, ${3:START point X}, ${4:END point Y});
+]]></content>
+<description>createLinearGradient(x0,y0,x1,y1)</description>
+<tabTrigger>clg</tabTrigger>
+<scope>source.js</scope>
+</snippet>

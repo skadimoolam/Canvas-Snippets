@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+toDataURL("${1:TYPE}", "${2:QUALITY}");
+]]></content>
+<description>toDataURL()</description>
+<tabTrigger>tdu</tabTrigger>
+<scope>source.js</scope>
+</snippet>

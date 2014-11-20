@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+shadowOffsetX = "${1:Number of PIXALs}";
+]]></content>
+<description>shadowOffsetX {Prop}</description>
+<tabTrigger>sox</tabTrigger>
+<scope>source.js</scope>
+</snippet>

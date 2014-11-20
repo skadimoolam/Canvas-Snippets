@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-drawImage(${1:IMG/SRC}, ${2:X}, ${3:Y});
-]]></content>
-<description>drawImage(img, X, Y)</description>
-<tabTrigger>di3</tabTrigger>
-<scope>source.js</scope>
-</snippet>

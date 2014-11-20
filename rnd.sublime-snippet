@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+Math.random();
+]]></content>
+<description>Math.random</description>
+<tabTrigger>rnd</tabTrigger>
+<scope>source.js</scope>
+</snippet>

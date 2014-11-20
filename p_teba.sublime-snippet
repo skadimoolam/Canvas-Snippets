@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+textBaseline = "${1:alphabetic|top|hanging|middle|ideographic|bottom}";
+]]></content>
+<description>textBaseline {Prop}</description>
+<tabTrigger>teba</tabTrigger>
+<scope>source.js</scope>
+</snippet>

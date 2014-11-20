@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+globalCompositeOperation = "${1:source-over|source-atop|source-in|source-out|destination-over|destination-atop|destination-in|destination-out|lighter|copy|xor}";
+]]></content>
+<description>globalCompositeOperation {Prop}</description>
+<tabTrigger>glco</tabTrigger>
+<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font = "${1:Any CSS FONT property is acceptable}";
+]]></content>
+<description>font {Prop}</description>
+<tabTrigger>fo</tabTrigger>
+<scope>source.js</scope>
+</snippet>

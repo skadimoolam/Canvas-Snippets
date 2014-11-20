@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+measureText("${1:TEXT to MEASURE}");
+]]></content>
+<description>measureText(txt,x,y)</description>
+<tabTrigger>mete</tabTrigger>
+<scope>source.js</scope>
+</snippet>
