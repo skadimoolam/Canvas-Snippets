@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-drawImage();
+drawImage(${1:PARAM});
 ]]></content>
 <description>drawImage()</description>
 <tabTrigger>dr</tabTrigger>

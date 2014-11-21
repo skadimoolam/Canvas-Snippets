@@ -1,8 +1,8 @@
 <snippet>
 <content><![CDATA[
-var ${1:PI} = Math.PI;
+Math.PI;
 ]]></content>
 <description>Math.PI</description>
-<tabTrigger>PI</tabTrigger>
+<tabTrigger>pi</tabTrigger>
 <scope>source.js</scope>
 </snippet>

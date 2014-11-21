@@ -91,5 +91,5 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 * Height - `he`
 * Width - `wi`
 * Data - `da`
-* Math.PI - `PI`
+* Math.PI - `pi`
 * Math.random - `rnd`
