@@ -7,13 +7,17 @@ Canvas Snippets is plugin for SublimeText 2 & 3 to make coding with HTML5 Canvas
 Download the latest version here:
 * https://github.com/skadimoolam/Canvas-Snippets/releases
 
-**NOTE**:As of now this Plugin is not available through PackageControl yet, but it will soon be.
+#### or
+
+Install it via Package Control.
+* Install [PackageControl](https://packagecontrol.io/installation)
+* Find PackageControl in the Command Palette(`CTRL+SHIFT+P`)
+* Search for `Canvas Snippets` and Install it.
+
 
 ### Using
 ***
-Using these snippets are quite easy.
-
-Just type the first two letters of a Method and Press `Tab`.
+Using these snippets are as easy as typeing the first two letters of a Method and Entering `Tab`.
 
 Examples: 
 * To revel the `stroke()` method, type `st` and Press `Tab`.
