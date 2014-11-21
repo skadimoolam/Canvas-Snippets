@@ -1,0 +1,16 @@
+<snippet>
+<content><![CDATA[
+(function(){
+
+var canvas = document.getElementById('${1:ID}'),
+	ctx = canvas.getContext('${2:Context}');
+
+canvas.width = ${3:Width};
+canvas.height = ${4:Height};
+	
+}());
+]]></content>
+<description>Initialize Canvas and Context</description>
+<tabTrigger>initcan</tabTrigger>
+<scope>source.js</scope>
+</snippet>

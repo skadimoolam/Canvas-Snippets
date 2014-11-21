@@ -93,3 +93,4 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 * Data - `da`
 * Math.PI - `pi`
 * Math.random - `rnd`
+* Initialize Canvas and Context - `initcan`
