@@ -1,4 +1,4 @@
-Canvas Snippets is plugin for SublimeText 2 & 3 to make coding with HTML5 Canvas API a little easier.
+Canvas Snippets is a plugin for SublimeText 2 & 3 to make coding with HTML5 Canvas API a little easier.
 
 
 
