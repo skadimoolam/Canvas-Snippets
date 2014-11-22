@@ -85,6 +85,7 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 * getContext() - `gco`
 * toDataURL() - `tdu`
 
+
 ### MICS
 * HTML BoilerPlate with a Canvas Tag - `htmlcan`
 * Canvas Tag with useful Attributes - `cat`
