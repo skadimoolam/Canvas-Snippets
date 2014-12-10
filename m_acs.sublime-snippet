@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-addColorStop(${1:NO. between 0 & 1},"${2:Any CSS Color Value is valid}");
+ctx.addColorStop(${1:NO. between 0 & 1},"${2:Any CSS Color Value is valid}");
 ]]></content>
 <description>addColorStop(stop,color)</description>
 <tabTrigger>acs</tabTrigger>

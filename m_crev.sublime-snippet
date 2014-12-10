@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-createEvent("${1:EVENT TYPE}");
+document.createEvent("${1:EVENT TYPE}");
 ]]></content>
 <description>createEvent()</description>
 <tabTrigger>crev</tabTrigger>

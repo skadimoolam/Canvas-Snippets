@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-clip();
+ctx.clip();
 ]]></content>
 <description>clip()</description>
 <tabTrigger>cl</tabTrigger>

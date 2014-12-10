@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-bezierCurveTo(${1:CENTER X1}, ${2:CENTER Y1}, ${3:CENTER X2}, ${4:CENTER Y2}, ${5:X}, ${6:Y});
+ctx.bezierCurveTo(${1:CENTER X1}, ${2:CENTER Y1}, ${3:CENTER X2}, ${4:CENTER Y2}, ${5:X}, ${6:Y});
 ]]></content>
 <description>bezierCurveTo(cp1x,cp1y,cp2x,cp2y,x,y)</description>
 <tabTrigger>bez</tabTrigger>

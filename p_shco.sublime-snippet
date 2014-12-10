@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-shadowColor = "${1:COLOR}";
+ctx.shadowColor = "${1:COLOR}";
 ]]></content>
 <description>shadowColor {Prop}</description>
 <tabTrigger>shco</tabTrigger>

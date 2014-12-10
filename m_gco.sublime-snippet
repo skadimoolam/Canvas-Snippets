@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-getContext("${1:2d/WebGL}");
+canvas.getContext("${1:2d/WebGL}");
 ]]></content>
 <description>getContext()</description>
 <tabTrigger>gco</tabTrigger>

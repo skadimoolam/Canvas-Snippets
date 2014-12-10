@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-strokeRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
+ctx.strokeRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
 ]]></content>
 <description>strokeRect()</description>
 <tabTrigger>stre</tabTrigger>

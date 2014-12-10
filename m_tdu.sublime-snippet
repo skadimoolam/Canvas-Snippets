@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-toDataURL("${1:TYPE}", "${2:QUALITY}");
+canvas.toDataURL("${1:TYPE}", "${2:QUALITY}");
 ]]></content>
 <description>toDataURL()</description>
 <tabTrigger>tdu</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-quadraticCurveTo(${1:CENTER X}, ${2:CENTER Y}, ${3:X}, ${4:Y});
+ctx.quadraticCurveTo(${1:CENTER X}, ${2:CENTER Y}, ${3:X}, ${4:Y});
 ]]></content>
 <description>quadraticCurveTo(cpx,cpy,x,y)</description>
 <tabTrigger>qua</tabTrigger>

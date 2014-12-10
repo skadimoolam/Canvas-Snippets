@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-fillStyle = "${1:COLOR/GRADIENT/PATTERN}";
+ctx.fillStyle = "${1:COLOR/GRADIENT/PATTERN}";
 ]]></content>
 <description>fillStyle {Prop}</description>
 <tabTrigger>fist</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-lineTo(${1:X}, ${2:Y});
+ctx.lineTo(${1:X}, ${2:Y});
 ]]></content>
 <description>lineTo(x,y)</description>
 <tabTrigger>lit</tabTrigger>

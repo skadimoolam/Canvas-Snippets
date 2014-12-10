@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-stroke();
+ctx.stroke();
 ]]></content>
 <description>stroke()</description>
 <tabTrigger>st</tabTrigger>

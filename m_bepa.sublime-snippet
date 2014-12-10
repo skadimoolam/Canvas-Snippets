@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-beginPath();
+ctx.beginPath();
 ]]></content>
 <description>beginPath()</description>
 <tabTrigger>bepa</tabTrigger>

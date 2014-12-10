@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-fill();
+ctx.fill();
 ]]></content>
 <description>fill()</description>
 <tabTrigger>fi</tabTrigger>

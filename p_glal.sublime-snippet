@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-globalAlpha = "${1:Value between 0 & 1}";
+ctx.globalAlpha = "${1:Value between 0 & 1}";
 ]]></content>
 <description>globalAlpha {Prop}</description>
 <tabTrigger>glal</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-rotate(${1:Rotate Angle});
+ctx.rotate(${1:Rotate Angle});
 ]]></content>
 <description>rotate(rotateAngle)</description>
 <tabTrigger>ro</tabTrigger>

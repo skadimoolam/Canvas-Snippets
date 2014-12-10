@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-lineJoin = "${1:BEVEL|ROUND|MITER}";
+ctx.lineJoin = "${1:BEVEL|ROUND|MITER}";
 ]]></content>
 <description>lineJoin {Prop}</description>
 <tabTrigger>lijo</tabTrigger>

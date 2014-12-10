@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-restore();
+ctx.restore();
 ]]></content>
 <description>restore()</description>
 <tabTrigger>res</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-isPointInPath(${1:Point X}, ${2:Point Y});
+ctx.isPointInPath(${1:Point X}, ${2:Point Y});
 ]]></content>
 <description>isPointInPath(x,y)</description>
 <tabTrigger>ipip</tabTrigger>
