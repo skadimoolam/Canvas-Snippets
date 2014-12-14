@@ -1,97 +1,109 @@
-Below is a list of all the methods and properties of the Canvas' Context followed by its respective tabtrigger
+Below is a list of all the methods and properties of the Canvas' Context followed by its respective tabtrigger.
 
+#### Example:
+	1. To revel "fillStyle" property, type "fist" and enter TAB
+	2. To insert "clearRect()" methods, type "clre" and enter TAB
+	and so on............
+
+#### How to Use this CheatSheet:
+	ctx.method/property - TabTrigger + TAB
+
+#### Note:
+	1. The Canvas' Context is set to "ctx" and cannot be changed
+	2. There are some MISC snippets, take a look at the MISC section
+	3. If you use Canvas Snippets often, save this file for easy reference
 
 ### COLOR, STYLE and SHADOW
-* fillStyle - `fist`
-* strokeStyle - `stat`
-* shadowColor - `shco`
-* shadowBlur - `shbl`
-* shadowOffsetX - `sox`
-* shadowOffsetY - `soy`
-* createLinearGradient() - `clg`
-* createRadialGradient() - `crg`
-* createPattern() - `cp`
-* addColorStop() - `acs`
+* ctx.fillStyle - `fist` + `TAB`
+* ctx.strokeStyle - `stat` + `TAB`
+* ctx.shadowColor - `shco` + `TAB`
+* ctx.shadowBlur - `shbl` + `TAB`
+* ctx.shadowOffsetX - `sox` + `TAB`
+* ctx.shadowOffsetY - `soy` + `TAB`
+* ctx.createLinearGradient() - `clg` + `TAB`
+* ctx.createRadialGradient() - `crg` + `TAB`
+* ctx.createPattern() - `cp` + `TAB`
+* ctx.addColorStop() - `acs` + `TAB`
 
 
 ### LINE STYLE
-* lineCap - `lic`
-* lineJoin - `lijo`
-* lineWidth - `liwi`
-* miterLimit - `mili`
+* ctx.lineCap - `lic` + `TAB`
+* ctx.lineJoin - `lijo` + `TAB`
+* ctx.lineWidth - `liwi` + `TAB`
+* ctx.miterLimit - `mili` + `TAB`
 
 
 ### RECTANGLE
-* rect() - `re`
-* fillRect() - `fire`
-* strokeRect() - `stre`
-* clearRect() - `clre`
+* ctx.rect() - `re` + `TAB`
+* ctx.fillRect() - `fire` + `TAB`
+* ctx.strokeRect() - `stre` + `TAB`
+* ctx.clearRect() - `clre` + `TAB`
 
 
 ### PATH
-* fill() - `fi`
-* stroke() - `st`
-* beginPath() - `bepa`
-* closePath() - `clpa`
-* moveTo() - `mot`
-* lineTo() - `lit`
-* quadraticCurveTo() - `qua`
-* bezierCurveTo() - `bez`
-* arc() - `ar`
-* arcTo() - `art`
-* clip() - `cl`
-* isPointInPath() - `ipip`
+* ctx.fill() - `fi` + `TAB`
+* ctx.stroke() - `st` + `TAB`
+* ctx.beginPath() - `bepa` + `TAB`
+* ctx.closePath() - `clpa` + `TAB`
+* ctx.moveTo() - `mot` + `TAB`
+* ctx.lineTo() - `lit` + `TAB`
+* ctx.quadraticCurveTo() - `qua` + `TAB`
+* ctx.bezierCurveTo() - `bez` + `TAB`
+* ctx.arc() - `ar` + `TAB`
+* ctx.arcTo() - `art` + `TAB`
+* ctx.clip() - `cl` + `TAB`
+* ctx.isPointInPath() - `ipip` + `TAB`
 
 
 ### TRANSFORMATION
-* scale() - `sc`
-* rotate() - `ro`
-* translate() - `trsl`
-* transform() - `trsf`
-* setTransform() - `strsf`
+* ctx.scale() - `sc` + `TAB`
+* ctx.rotate() - `ro` + `TAB`
+* ctx.translate() - `trsl` + `TAB`
+* ctx.transform() - `trsf` + `TAB`
+* ctx.setTransform() - `strsf` + `TAB`
 
 
 ### TEXT/FONT
-* font - `fo`
-* textAlign - `teal`
-* textBaseline - `teba`
-* fillText() - `fite`
-* strokeText() - `stte`
-* measureText() - `mete`
+* ctx.font - `fo` + `TAB`
+* ctx.textAlign - `teal` + `TAB`
+* ctx.textBaseline - `teba` + `TAB`
+* ctx.fillText() - `fite` + `TAB`
+* ctx.strokeText() - `stte` + `TAB`
+* ctx.measureText() - `mete` + `TAB`
 
 
 ### IMAGE DRAWING
-* drawImage() - `dr`
+* ctx.drawImage() - `dr` + `TAB`
 
 
 ### PIXAL MANIPULATION
-* width - `wi`
-* height - `he`
-* data - `da`
-* createImageData() - `cid`
-* getImageData() - `gid`
-* putImageData() - `pid`
+* ctx.width - `wi` + `TAB`
+* ctx.height - `he` + `TAB`
+* ctx.data - `da` + `TAB`
+* ctx.createImageData() - `cid` + `TAB`
+* ctx.getImageData() - `gid` + `TAB`
+* ctx.putImageData() - `pid` + `TAB`
 
 
 ### COMPOSITING
-* globalAlpha - `glal`
-* globalCompositeOperation - `glco`
+* ctx.globalAlpha - `glal` + `TAB`
+* ctx.globalCompositeOperation - `glco` + `TAB`
 
 
 ### OTHER
-* save() - `sa`
-* restore() - `res`
-* createEvent() - `crev`
-* getContext() - `gco`
-* toDataURL() - `tdu`
+* ctx.save() - `sa` + `TAB`
+* ctx.restore() - `res` + `TAB`
+* ctx.createEvent() - `crev` + `TAB`
+* ctx.getContext() - `gco` + `TAB`
+* ctx.toDataURL() - `tdu` + `TAB`
 
 
 ### MICS
-* HTML BoilerPlate with a Canvas Tag - `htmlcan`
-* Canvas Tag with useful Attributes - `cat`
-* Height - `he`
-* Width - `wi`
-* Data - `da`
-* Math.PI - `pi`
-* Math.random - `rnd`
-* Initialize Canvas and Context - `initcan`
+* ctx.HTML BoilerPlate with a Canvas Tag - `htmlcan` + `TAB`
+* ctx.Canvas Tag with useful Attributes - `cat` + `TAB`
+* ctx.Height - `he` + `TAB`
+* ctx.Width - `wi` + `TAB`
+* ctx.Data - `da` + `TAB`
+* ctx.Math.PI - `pi` + `TAB`
+* ctx.Math.random - `rnd` + `TAB`
+* ctx.Initialize Canvas and Context - `initcan` + `TAB`
