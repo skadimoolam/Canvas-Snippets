@@ -107,3 +107,4 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 * HTML BoilerPlate with a Canvas Tag - `htmlcan` + `TAB`
 * Canvas Tag with useful Attributes - `cat` + `TAB`
 * Initialize Canvas and Context - `initcan` + `TAB`
+* Center all Canvas Tags - `centcan` + `Tab`
