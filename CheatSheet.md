@@ -99,11 +99,11 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 
 
 ### MICS
-* ctx.HTML BoilerPlate with a Canvas Tag - `htmlcan` + `TAB`
-* ctx.Canvas Tag with useful Attributes - `cat` + `TAB`
-* ctx.Height - `he` + `TAB`
-* ctx.Width - `wi` + `TAB`
-* ctx.Data - `da` + `TAB`
-* ctx.Math.PI - `pi` + `TAB`
-* ctx.Math.random - `rnd` + `TAB`
-* ctx.Initialize Canvas and Context - `initcan` + `TAB`
+* Height - `he` + `TAB`
+* Width - `wi` + `TAB`
+* Math.PI - `pi` + `TAB`
+* Math.random - `rnd` + `TAB`
+* Data - `da` + `TAB`
+* HTML BoilerPlate with a Canvas Tag - `htmlcan` + `TAB`
+* Canvas Tag with useful Attributes - `cat` + `TAB`
+* Initialize Canvas and Context - `initcan` + `TAB`
