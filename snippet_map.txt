@@ -2,8 +2,8 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 
 How to Use this Map:
 
-	FOLDER NAME
-		method/property name - file_name
+	GROUP NAME
+		method/property name - folder_name/file_name
 
 	'p_' in the file_name means it's a Context Property
 	'm_' in the file_name means it's a Context Method
@@ -107,3 +107,8 @@ MICS
 MATH
 	Math.PI - ../Math/pi.sublime-snippet
 	Math.random - ../Math/rnd.sublime-snippet
+	Math.min() - ../Math/min.sublime-snippet
+	Math.max() - ../Math/max.sublime-snippet
+	Math.round() - ../Math/round.sublime-snippet
+	Math.ceil() - ../Math/cil.sublime-snippet
+	Math.floor() - ../Math/flr.sublime-snippet
