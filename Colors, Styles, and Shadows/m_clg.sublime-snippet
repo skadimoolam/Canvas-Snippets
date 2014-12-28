@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.createLinearGradient(${1:START point X}, ${2:END point Y}, ${3:START point X}, ${4:END point Y});
+$TM_CONTEXT.createLinearGradient(${1:START point X}, ${2:END point Y}, ${3:START point X}, ${4:END point Y});
 ]]></content>
 <description>createLinearGradient(x0,y0,x1,y1)</description>
 <tabTrigger>clg</tabTrigger>

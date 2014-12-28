@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.restore();
+$TM_CONTEXT.restore();
 ]]></content>
 <description>restore()</description>
 <tabTrigger>res</tabTrigger>

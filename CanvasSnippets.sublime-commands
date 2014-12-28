@@ -1,0 +1,17 @@
+[
+	{
+		"caption": "Canvas Snippets: Open CheatSheet",
+		"command": "open_file",
+		"args": {"file": "${packages}/Canvas-Snippets/CheatSheet.txt"}
+	},
+	{
+		"caption": "Canvas Snippets: Set Context Variable",
+		"command": "open_file",
+		"args": {"file": "${packages}/Canvas-Snippets/ContextSetting.tmPreferences"}
+	}
+	{
+		"caption": "Canvas Snippets: Open ChangeLog",
+		"command": "open_file",
+		"args": {"file": "${packages}/Canvas-Snippets/Changes.txt"}
+	},
+]

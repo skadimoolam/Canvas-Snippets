@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.lineWidth = "${1:WIDTH IN PIXALS}";
+$TM_CONTEXT.lineWidth = "${1:WIDTH IN PIXALS}";
 ]]></content>
 <description>lineWidth {Prop}</description>
 <tabTrigger>liwi</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.textAlign = "${1:start|end|center|left|right}";
+$TM_CONTEXT.textAlign = "${1:start|end|center|left|right}";
 ]]></content>
 <description>textAlign {Prop}</description>
 <tabTrigger>teal</tabTrigger>

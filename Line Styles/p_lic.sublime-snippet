@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.lineCap = "${1:BUTT|ROUND|SQURE}";
+$TM_CONTEXT.lineCap = "${1:BUTT|ROUND|SQURE}";
 ]]></content>
 <description>lineCap {Prop}</description>
 <tabTrigger>lic</tabTrigger>

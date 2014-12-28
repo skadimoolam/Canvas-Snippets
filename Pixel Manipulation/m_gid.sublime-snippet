@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.getImageData(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
+$TM_CONTEXT.getImageData(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
 ]]></content>
 <description>getImageData(x.y,wid,hei)</description>
 <tabTrigger>gid</tabTrigger>

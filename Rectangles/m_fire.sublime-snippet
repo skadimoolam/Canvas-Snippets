@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.fillRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
+$TM_CONTEXT.fillRect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
 ]]></content>
 <description>fillRect()</description>
 <tabTrigger>fire</tabTrigger>

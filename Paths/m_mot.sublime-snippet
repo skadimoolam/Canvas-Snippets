@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.moveTo(${1:X}, ${2:Y});
+$TM_CONTEXT.moveTo(${1:X}, ${2:Y});
 ]]></content>
 <description>moveTo(x,y)</description>
 <tabTrigger>mot</tabTrigger>

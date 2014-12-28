@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.textBaseline = "${1:alphabetic|top|hanging|middle|ideographic|bottom}";
+$TM_CONTEXT.textBaseline = "${1:alphabetic|top|hanging|middle|ideographic|bottom}";
 ]]></content>
 <description>textBaseline {Prop}</description>
 <tabTrigger>teba</tabTrigger>

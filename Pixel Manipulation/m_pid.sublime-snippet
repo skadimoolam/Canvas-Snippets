@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.putImageData(${1:IMAGE DATA}, ${2:X}, ${3:Y});
+$TM_CONTEXT.putImageData(${1:IMAGE DATA}, ${2:X}, ${3:Y});
 ]]></content>
 <description>putImageData(x.y,wid,hei)</description>
 <tabTrigger>pid</tabTrigger>

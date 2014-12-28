@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.fill();
+$TM_CONTEXT.fill();
 ]]></content>
 <description>fill()</description>
 <tabTrigger>fi</tabTrigger>

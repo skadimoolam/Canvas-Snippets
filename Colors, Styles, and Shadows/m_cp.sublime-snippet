@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.createPattern(${1:IMAGE}, ${2:"repeat|repeat-x|repeat-y|no-repeat"});
+$TM_CONTEXT.createPattern(${1:IMAGE}, ${2:"repeat|repeat-x|repeat-y|no-repeat"});
 ]]></content>
 <description>createPattern(img,repeat)</description>
 <tabTrigger>cp</tabTrigger>

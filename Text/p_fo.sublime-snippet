@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.font = "${1:Any CSS FONT property is acceptable}";
+$TM_CONTEXT.font = "${1:Any CSS FONT property is acceptable}";
 ]]></content>
 <description>font {Prop}</description>
 <tabTrigger>fo</tabTrigger>

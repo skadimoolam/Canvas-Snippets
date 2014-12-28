@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.createImageData(${1:WIDTH}, ${2:HEIGHT});
+$TM_CONTEXT.createImageData(${1:WIDTH}, ${2:HEIGHT});
 ]]></content>
 <description>createImageData(wid,hei)</description>
 <tabTrigger>cid</tabTrigger>

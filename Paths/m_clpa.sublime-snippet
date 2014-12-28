@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.closePath();
+$TM_CONTEXT.closePath();
 ]]></content>
 <description>closePath()</description>
 <tabTrigger>clpa</tabTrigger>

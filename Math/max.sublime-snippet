@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+Math.max();
+]]></content>
+<description>Math.max()</description>
+<tabTrigger>max</tabTrigger>
+<scope>source.js</scope>
+</snippet>

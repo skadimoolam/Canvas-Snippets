@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.measureText("${1:TEXT to MEASURE}");
+$TM_CONTEXT.measureText("${1:TEXT to MEASURE}");
 ]]></content>
 <description>measureText(txt,x,y)</description>
 <tabTrigger>mete</tabTrigger>

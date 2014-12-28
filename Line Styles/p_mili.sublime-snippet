@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.miterLimit = "${1:POSITIVE NUMBER}";
+$TM_CONTEXT.miterLimit = "${1:POSITIVE NUMBER}";
 ]]></content>
 <description>miterLimit {Prop}</description>
 <tabTrigger>mili</tabTrigger>

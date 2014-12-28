@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.rotate(${1:Rotate Angle});
+$TM_CONTEXT.rotate(${1:Rotate Angle});
 ]]></content>
 <description>rotate(rotateAngle)</description>
 <tabTrigger>ro</tabTrigger>

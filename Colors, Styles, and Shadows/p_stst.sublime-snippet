@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.strokeStyle = "${1:COLOR/GRADIENT/PATTERN}";
+$TM_CONTEXT.strokeStyle = "${1:COLOR/GRADIENT/PATTERN}";
 ]]></content>
 <description>strokeStyle {Prop}</description>
 <tabTrigger>stst</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.save();
+$TM_CONTEXT.save();
 ]]></content>
 <description>save()</description>
 <tabTrigger>sa</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.rect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
+$TM_CONTEXT.rect(${1:X}, ${2:Y}, ${3:WIDTH}, ${4:HEIGHT});
 ]]></content>
 <description>rect()</description>
 <tabTrigger>re</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.stroke();
+$TM_CONTEXT.stroke();
 ]]></content>
 <description>stroke()</description>
 <tabTrigger>st</tabTrigger>

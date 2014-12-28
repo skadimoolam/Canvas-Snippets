@@ -1,0 +1,5 @@
+Canvas Snippets - ChangeLog
+
+v1.2.0
+1.Added a new feature to 
+2.Added CanvasSnippet CheatSheet File to the Command Pallet and can be accesed by typing 'CheatSheet' in the Command Pallet

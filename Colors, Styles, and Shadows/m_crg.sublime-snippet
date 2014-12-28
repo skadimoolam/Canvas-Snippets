@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.createRadialGradient(${1:INNER Circle X}, ${2:INNER Circle Y}, ${3:RADIUS}, ${4:OUTER Circle X}, ${5:OUTER Circle Y}, ${6:RADIUS});
+$TM_CONTEXT.createRadialGradient(${1:INNER Circle X}, ${2:INNER Circle Y}, ${3:RADIUS}, ${4:OUTER Circle X}, ${5:OUTER Circle Y}, ${6:RADIUS});
 ]]></content>
 <description>createRadialGradient(x0,y0,r0,x1,y1,r1)</description>
 <tabTrigger>crg</tabTrigger>

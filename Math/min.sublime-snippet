@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+Math.min();
+]]></content>
+<description>Math.min()</description>
+<tabTrigger>min</tabTrigger>
+<scope>source.js</scope>
+</snippet>

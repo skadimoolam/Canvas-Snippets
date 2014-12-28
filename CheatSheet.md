@@ -77,9 +77,6 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 
 
 ### PIXAL MANIPULATION
-* ctx.width - `wi` + `TAB`
-* ctx.height - `he` + `TAB`
-* ctx.data - `da` + `TAB`
 * ctx.createImageData() - `cid` + `TAB`
 * ctx.getImageData() - `gid` + `TAB`
 * ctx.putImageData() - `pid` + `TAB`
@@ -111,3 +108,8 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 ### MATH
 * Math.PI - `pi` + `TAB`
 * Math.random - `rnd` + `TAB`
+* Math.min() - `min` + `TAB`
+* Math.max() - `max` + `TAB`
+* Math.round() - `round` + `TAB`
+* Math.ceil() - `cil` + `TAB`
+* Math.floor() - `flr` + `TAB`

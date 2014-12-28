@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+Math.floor();
+]]></content>
+<description>Math.floor()</description>
+<tabTrigger>flr</tabTrigger>
+<scope>source.js</scope>
+</snippet>

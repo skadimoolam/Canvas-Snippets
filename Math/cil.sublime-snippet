@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+Math.ceil();
+]]></content>
+<description>Math.ceil()</description>
+<tabTrigger>cil</tabTrigger>
+<scope>source.js</scope>
+</snippet>

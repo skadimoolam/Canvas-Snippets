@@ -13,100 +13,97 @@ Note:
 	2. There are some MISC snippets, take a look at the MISC section
 
 COLOR, STYLE and SHADOW
-	ctx.fillStyle - p_fist.sublime-snippet
-	ctx.strokeStyle - p_stat.sublime-snippet
-	ctx.shadowColor - p_shco.sublime-snippet
-	ctx.shadowBlur - p_shbl.sublime-snippet
-	ctx.shadowOffsetX - p_sox.sublime-snippet
-	ctx.shadowOffsetY - p_soy.sublime-snippet
-	ctx.createLinearGradient() - m_clg.sublime-snippet
-	ctx.createRadialGradient() - m_crg.sublime-snippet
-	ctx.createPattern() - m_cp.sublime-snippet
-	ctx.addColorStop() - m_acs.sublime-snippet
+	ctx.fillStyle - ../Colors, Styles, and Shadows/p_fist.sublime-snippet
+	ctx.strokeStyle - ../Colors, Styles, and Shadows/p_stat.sublime-snippet
+	ctx.shadowColor - ../Colors, Styles, and Shadows/p_shco.sublime-snippet
+	ctx.shadowBlur - ../Colors, Styles, and Shadows/p_shbl.sublime-snippet
+	ctx.shadowOffsetX - ../Colors, Styles, and Shadows/p_sox.sublime-snippet
+	ctx.shadowOffsetY - ../Colors, Styles, and Shadows/p_soy.sublime-snippet
+	ctx.createLinearGradient() - ../Colors, Styles, and Shadows/m_clg.sublime-snippet
+	ctx.createRadialGradient() - ../Colors, Styles, and Shadows/m_crg.sublime-snippet
+	ctx.createPattern() - ../Colors, Styles, and Shadows/m_cp.sublime-snippet
+	ctx.addColorStop() - ../Colors, Styles, and Shadows/m_acs.sublime-snippet
 
 
 LINE STYLE
-	ctx.lineCap - p_lic.sublime-snippet
-	ctx.lineJoin - p_lijo.sublime-snippet
-	ctx.lineWidth - p_liwi.sublime-snippet
-	ctx.miterLimit - p_mili.sublime-snippet
+	ctx.lineCap - ../Line Styles/p_lic.sublime-snippet
+	ctx.lineJoin - ../Line Styles/p_lijo.sublime-snippet
+	ctx.lineWidth - ../Line Styles/p_liwi.sublime-snippet
+	ctx.miterLimit - ../Line Styles/p_mili.sublime-snippet
 
 
 RECTANGLE
-	ctx.rect() - m_re.sublime-snippet
-	ctx.fillRect() - m_fire.sublime-snippet
-	ctx.strokeRect() - m_stre.sublime-snippet
-	ctx.clearRect() - m_clre.sublime-snippet
+	ctx.rect() - ../Rectangles/m_re.sublime-snippet
+	ctx.fillRect() - ../Rectangles/m_fire.sublime-snippet
+	ctx.strokeRect() - ../Rectangles/m_stre.sublime-snippet
+	ctx.clearRect() - ../Rectangles/m_clre.sublime-snippet
 
 
 PATH
-	ctx.fill() - m_fi.sublime-snippet
-	ctx.stroke() - m_st.sublime-snippet
-	ctx.beginPath() - m_bepa.sublime-snippet
-	ctx.closePath() - m_clpa.sublime-snippet
-	ctx.moveTo() - m_mot.sublime-snippet
-	ctx.lineTo() - m_lit.sublime-snippet
-	ctx.quadraticCurveTo() - m_qua.sublime-snippet
-	ctx.bezierCurveTo() - m_bez.sublime-snippet
-	ctx.arc() - m_ar.sublime-snippet
-	ctx.arcTo() - m_art.sublime-snippet
-	ctx.clip() - m_cl.sublime-snippet
-	ctx.isPointInPath() - m_ipip.sublime-snippet
+	ctx.fill() - ../Paths/m_fi.sublime-snippet
+	ctx.stroke() - ../Paths/m_st.sublime-snippet
+	ctx.beginPath() - ../Paths/m_bepa.sublime-snippet
+	ctx.closePath() - ../Paths/m_clpa.sublime-snippet
+	ctx.moveTo() - ../Paths/m_mot.sublime-snippet
+	ctx.lineTo() - ../Paths/m_lit.sublime-snippet
+	ctx.quadraticCurveTo() - ../Paths/m_qua.sublime-snippet
+	ctx.bezierCurveTo() - ../Paths/m_bez.sublime-snippet
+	ctx.arc() - ../Paths/m_ar.sublime-snippet
+	ctx.arcTo() - ../Paths/m_art.sublime-snippet
+	ctx.clip() - ../Paths/m_cl.sublime-snippet
+	ctx.isPointInPath() - ../Paths/m_ipip.sublime-snippet
 
 
 TRANSFORMATION
-	ctx.scale() - m_sc.sublime-snippet
-	ctx.rotate() - m_ro.sublime-snippet
-	ctx.translate() - m_trsl.sublime-snippet
-	ctx.transform() - m_trsf.sublime-snippet
-	ctx.setTransform() - m_strsf.sublime-snippet
+	ctx.scale() - ../Rectangles/m_sc.sublime-snippet
+	ctx.rotate() - ../Rectangles/m_ro.sublime-snippet
+	ctx.translate() - ../Rectangles/m_trsl.sublime-snippet
+	ctx.transform() - ../Rectangles/m_trsf.sublime-snippet
+	ctx.setTransform() - ../Rectangles/m_strsf.sublime-snippet
 
 
 TEXT/FONT
-	ctx.font - p_fo.sublime-snippet
-	ctx.textAlign - p_teal.sublime-snippet
-	ctx.textBaseline - p_teba.sublime-snippet
-	ctx.fillText() - m_fite.sublime-snippet
-	ctx.strokeText() - m_stte.sublime-snippet
-	ctx.measureText() - m_mete.sublime-snippet
+	ctx.font - ../Text/p_fo.sublime-snippet
+	ctx.textAlign - ../Text/p_teal.sublime-snippet
+	ctx.textBaseline - ../Text/p_teba.sublime-snippet
+	ctx.fillText() - ../Text/m_fite.sublime-snippet
+	ctx.strokeText() - ../Text/m_stte.sublime-snippet
+	ctx.measureText() - ../Text/m_mete.sublime-snippet
 
 
 IMAGE DRAWING
-	ctx.drawImage() - m_dr.sublime-snippet
+	ctx.drawImage() - ../Image Drawing/m_dr.sublime-snippet
 
 
 PIXAL MANIPULATION
-	ctx.width - wi.sublime-snippet
-	ctx.height - he.sublime-snippet
-	ctx.data - da.sublime-snippet
-	ctx.createImageData() - m_cid.sublime-snippet
-	ctx.getImageData() - m_gid.sublime-snippet
-	ctx.putImageData() - m_pid.sublime-snippet
+	ctx.createImageData() - ../Pixel Manipulation/m_cid.sublime-snippet
+	ctx.getImageData() - ../Pixel Manipulation/m_gid.sublime-snippet
+	ctx.putImageData() - ../Pixel Manipulation/m_pid.sublime-snippet
 
 
 COMPOSITING
-	ctx.globalAlpha - p_glal.sublime-snippet
-	ctx.globalCompositeOperation - p_glco.sublime-snippet
+	ctx.globalAlpha - ../Compositing/p_glal.sublime-snippet
+	ctx.globalCompositeOperation - ../Compositing/p_glco.sublime-snippet
 
 
 OTHER
-	ctx.save() - m_sa.sublime-snippet
-	ctx.restore() - m_res.sublime-snippet
-	ctx.createEvent() - m_crev.sublime-snippet
-	ctx.getContext() - m_gco.sublime-snippet
-	ctx.toDataURL() - m_tdu.sublime-snippet
+	ctx.save() - ../Other/m_sa.sublime-snippet
+	ctx.restore() - ../Other/m_res.sublime-snippet
+	ctx.createEvent() - ../Other/m_crev.sublime-snippet
+	ctx.getContext() - ../Other/m_gco.sublime-snippet
+	ctx.toDataURL() - ../Other/m_tdu.sublime-snippet
 
 
 MICS
-	Height - he.sublime-snippet
-	Width - wi.sublime-snippet
-	Data - da.sublime-snippet
-	HTML BoilerPlate with a Canvas Tag - htmlcan.sublime-snippet
-	Canvas Tag with useful Attributes - cat.sublime-snippet
-	Initialize Canvas and Context - initcan.sublime-snippet
-	Center all Canvas Tags - centcan.sublime-snippet
+	Height - ../Misc/he.sublime-snippet
+	Width - ../Misc/wi.sublime-snippet
+	Data - ../Misc/da.sublime-snippet
+	HTML BoilerPlate with a Canvas Tag - ../Misc/htmlcan.sublime-snippet
+	Canvas Tag with useful Attributes - ../Misc/cat.sublime-snippet
+	Initialize Canvas and Context - ../Misc/initcan.sublime-snippet
+	Center all Canvas Tags - ../Misc/centcan.sublime-snippet
 
 
 MATH
-	Math.PI - pi.sublime-snippet
-	Math.random - rnd.sublime-snippet
+	Math.PI - ../Math/pi.sublime-snippet
+	Math.random - ../Math/rnd.sublime-snippet

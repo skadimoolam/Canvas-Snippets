@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.shadowOffsetX = "${1:Number of PIXALs}";
+$TM_CONTEXT.shadowOffsetX = "${1:Number of PIXALs}";
 ]]></content>
 <description>shadowOffsetX {Prop}</description>
 <tabTrigger>sox</tabTrigger>

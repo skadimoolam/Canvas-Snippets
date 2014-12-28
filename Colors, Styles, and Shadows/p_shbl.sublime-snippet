@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-ctx.shadowBlur = "${1:NO. between 0 & 1}";
+$TM_CONTEXT.shadowBlur = "${1:NO. between 0 & 1}";
 ]]></content>
 <description>shadowBlur {Prop}</description>
 <tabTrigger>shbl</tabTrigger>
