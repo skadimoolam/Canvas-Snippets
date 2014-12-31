@@ -1,11 +1,15 @@
 Canvas Snippets - ChangeLog
+Author: Adi <skadimoolam@gmail.com>
+Website: https://github.com/skadimoolam/Canvas-Snippets
 
 v1.1.3
-1.CheatSheet file is now added to the Command Pallet and can be accessed by typing CanvasSnippets in the Command Pallet
-2.Organized all Snippets in Folders and added a snippet_map.txt to easily identify where a snippet file is.
-3.Added Math.ceil() Snippet
-4.Added Math.floor() Snippet
-5.Added Math.round() Snippet
-6.Added Math.min() Snippet
-7.Added Math.max() Snippet
+1. CheatSheet file is now added to the Command Pallet and can be accessed by typing CanvasSnippets in the Command Pallet
 
+2. Organized all Snippets in Folders and added a snippet_map.txt.
+
+3. New Snippets:
+	Math.ceil() - cil + TAB
+	Math.floor() - flr + TAB
+	Math.round() - round + TAB
+	Math.min() - min + TAB
+	Math.max() - max + TAB
