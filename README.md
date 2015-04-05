@@ -52,6 +52,6 @@ If you have any doubts about how to use a snippet, please refer to my **[CheatSh
 
 If something is not working right please make an issue **[HERE](https://github.com/skadimoolam/Canvas-Snippets/issues)**
 
-### Contributions are always appropriated.
+### Your Thoughts and Contributions are always appropriated.
 
 ***
