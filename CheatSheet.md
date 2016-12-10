@@ -15,7 +15,7 @@ Below is a list of all the methods and properties of the Canvas' Context followe
 
 ### COLOR, STYLE and SHADOW
 * ctx.fillStyle - `fist` + `TAB`
-* ctx.strokeStyle - `stat` + `TAB`
+* ctx.strokeStyle - `stst` + `TAB`
 * ctx.shadowColor - `shco` + `TAB`
 * ctx.shadowBlur - `shbl` + `TAB`
 * ctx.shadowOffsetX - `sox` + `TAB`
