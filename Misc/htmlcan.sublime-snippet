@@ -20,7 +20,7 @@ var ctx = canvas.getContext('${3:Context}');
 canvas.width = ${4:Width};
 canvas.height = ${5:Height};
 	
-}());
+});
 </script>
 </body>
 </html>
